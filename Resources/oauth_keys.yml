@@ -1,0 +1,15 @@
+CONSUMER_KEY: 12ea8b7284bf748a133b5e9d3c47a32e
+CONSUMER_SECRET: 6612cab9ab962514
+
+flickrBaseURL: http://www.flickr.com
+flickrRequestPath: /services/oauth/request_token
+flickrAuthorizationPath: /services/oauth/authorize
+flickrAccessPath: /services/oauth/access_token
+flickrAPIPath: http://api.flickr.com/services/rest
+flickrUploadPath: http://up.flickr.com/services/upload
+
+oAuthCallback: oob
+oauthToken: 72157639908189645-c91f9a5c961dee64
+oauthTokenSecret: 7204a9286869058a
+oauthVerifier: 
+user_nsid: 96158369@N08
